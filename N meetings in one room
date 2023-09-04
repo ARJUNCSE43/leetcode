@@ -1,0 +1,7 @@
+struct meeting {
+
+int start;
+int end;
+int pos;
+
+};
